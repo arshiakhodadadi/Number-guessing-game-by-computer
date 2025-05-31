@@ -1,7 +1,7 @@
 # Number-guessing-game-by-computer
 
-This Python code implements a number guessing game where the computer attempts to guess a number selected by the user. The user provides feedback—'bigger', 'smaller', or 'correct'—after each guess. Based on this feedback, the computer adjusts its subsequent guesses within the updated range. The game continues until the computer correctly identifies the user's number.
-GeeksforGeeks
+#This Python code implements a number guessing game where the computer attempts to guess a number selected by the user. The user provides feedback—'bigger', 'smaller', or 'correct'—after each guess. Based on this feedback, the computer adjusts its subsequent guesses within #the updated range. The game continues until the computer correctly identifies the user's number.
+#GeeksforGeeks
 
 Purpose of the Code:
 
